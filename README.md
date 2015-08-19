@@ -1,4 +1,0 @@
-# supernova
-test
-test
-test
